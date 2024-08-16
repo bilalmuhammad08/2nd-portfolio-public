@@ -11773,3 +11773,6 @@ pre {
 .prev-btn:hover, .next-btn:hover {
   background-color: #ff3d0b;
 }
+#contact{
+  height: 800px !important;
+}
